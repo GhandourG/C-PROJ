@@ -33,5 +33,14 @@ int main(){
     srand  (time (NULL) );
  
   int	coin = rand() % 2;
+  
+  
+  
+  //while number and square it
+   while(i<=9 && square<=81){
+    std::cout << i << "  "<<square <<"\n";
+    i++;
+    square = i * i;
+  }
     
     
