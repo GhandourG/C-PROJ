@@ -25,3 +25,8 @@ int main(){
  
  //Print BMI
     cout << "Your BMI Is " << BMI << ";";
+    
+    }
+    
+    
+    
