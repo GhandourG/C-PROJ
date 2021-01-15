@@ -30,3 +30,8 @@ int main(){
     
     
     
+    srand  (time (NULL) );
+ 
+  int	coin = rand() % 2;
+    
+    
