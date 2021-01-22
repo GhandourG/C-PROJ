@@ -42,5 +42,27 @@ int main(){
     i++;
     square = i * i;
   }
+  
+ //--------------------------------------------
+ 
+ /*Vector
+  vector<int> V1 = {1, 2, 3, 4,};
+    vector<double> V2 = {1.1, 2.2, 3.3};
+    vector<float> V3 = {20.1, 30.1};
+    //vector<String> V4 = {"Vector1", "Vector2"};
+    
+    vector<char> V5 = {'A', 'B'};
+    vector<short> V6 = {10, 20, 30};
+    */
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
     
     
